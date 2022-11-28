@@ -15,6 +15,8 @@
 		64D124AD2934DF830087A3C5 /* HomeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64D124AC2934DF830087A3C5 /* HomeScreen.swift */; };
 		64D124AF2934DF8B0087A3C5 /* StarterScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64D124AE2934DF8B0087A3C5 /* StarterScreen.swift */; };
 		64D124B22934E1380087A3C5 /* ItemPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64D124B12934E1380087A3C5 /* ItemPost.swift */; };
+		64D124B42934EFD40087A3C5 /* ItemStory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64D124B32934EFD40087A3C5 /* ItemStory.swift */; };
+		64D124B62934F5380087A3C5 /* AddStory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64D124B52934F5380087A3C5 /* AddStory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +29,8 @@
 		64D124AC2934DF830087A3C5 /* HomeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreen.swift; sourceTree = "<group>"; };
 		64D124AE2934DF8B0087A3C5 /* StarterScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarterScreen.swift; sourceTree = "<group>"; };
 		64D124B12934E1380087A3C5 /* ItemPost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemPost.swift; sourceTree = "<group>"; };
+		64D124B32934EFD40087A3C5 /* ItemStory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemStory.swift; sourceTree = "<group>"; };
+		64D124B52934F5380087A3C5 /* AddStory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddStory.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +95,8 @@
 			isa = PBXGroup;
 			children = (
 				64D124B12934E1380087A3C5 /* ItemPost.swift */,
+				64D124B32934EFD40087A3C5 /* ItemStory.swift */,
+				64D124B52934F5380087A3C5 /* AddStory.swift */,
 			);
 			path = cells;
 			sourceTree = "<group>";
@@ -168,7 +174,9 @@
 				64D124AF2934DF8B0087A3C5 /* StarterScreen.swift in Sources */,
 				64D124AD2934DF830087A3C5 /* HomeScreen.swift in Sources */,
 				64D124B22934E1380087A3C5 /* ItemPost.swift in Sources */,
+				64D124B62934F5380087A3C5 /* AddStory.swift in Sources */,
 				64D1249A2934DF510087A3C5 /* Task_1App.swift in Sources */,
+				64D124B42934EFD40087A3C5 /* ItemStory.swift in Sources */,
 				64D124A92934DF780087A3C5 /* SignInScreen.swift in Sources */,
 				64D124AB2934DF7E0087A3C5 /* SignUpScreen.swift in Sources */,
 			);
